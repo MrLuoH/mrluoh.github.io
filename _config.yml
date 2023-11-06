@@ -1,10 +1,10 @@
 # Site settings
 title: Mr'Luo Blog
 SEOTitle: 罗先森的博客 | Luo Blog
-header-img: img/post-bg-rwd.jpg
+header-img: https://s2.loli.net/2023/11/06/LP4WYeg7Mrpjk3m.png
 email: yc383cy@gmail.com
 description: "Every failure is leading towards success."
-keyword: "Luo, Mr'Luo Blog, 罗先生的博客"
+keyword: "Luo, Mr'Luo Blog, 罗先森的博客"
 url: "https://mrluoh.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/MrLuoH/mrluoh.github.io" # you code repository
@@ -12,7 +12,7 @@ github_repo: "https://github.com/MrLuoH/mrluoh.github.io" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: https://s2.loli.net/2023/10/31/KFm1LUv3JIjTXdk.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://s2.loli.net/2023/11/06/Ahm3kLi2dwPqpHu.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -56,8 +56,8 @@ kramdown:
 
 
 # 评论系统
-# Disqus(http://disqus.com/by/LuoH/)
-# disqus_username: mrluoh
+# Disqus(http://disqus.com/by/LuoH)
+# disqus_username: LuoH
 
 # Gitalk
 gitalk:
